@@ -10,7 +10,7 @@
 
     <name>MIDIrisEnroll</name>
     <description>MIDIrisEnroll</description>
-    <url>https://github.com/ramasct1/MIDIrisEnroll</url>
+    <url>https://github.com/DhawanRachakonda/MIDIrisEnroll</url>
 
     <licenses>
         <license>
@@ -23,7 +23,7 @@
         <developer>
             <name>Dev Name</name>
             <email>abc@gmail.com</email>
-            <organization>com.github.dhawan</organization>
+            <organization>com.github.dhawanrachakonda</organization>
             <organizationUrl>https://github.com/DhawanRachakonda</organizationUrl>
         </developer>
     </developers>
