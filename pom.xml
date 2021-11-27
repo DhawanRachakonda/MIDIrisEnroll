@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.dhawanrachakonda</groupId>
+    <groupId>io.github.dhawanrachakonda</groupId>
     <artifactId>MIDIrisEnroll</artifactId>
     <version>1.0.0</version>
 
@@ -23,7 +23,7 @@
         <developer>
             <name>Dev Name</name>
             <email>abc@gmail.com</email>
-            <organization>com.github.dhawanrachakonda</organization>
+            <organization>io.github.dhawanrachakonda</organization>
             <organizationUrl>https://github.com/DhawanRachakonda</organizationUrl>
         </developer>
     </developers>
